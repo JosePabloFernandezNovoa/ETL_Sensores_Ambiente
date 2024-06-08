@@ -1,7 +1,5 @@
 # ETL_Sensores_Ambiente
 
-Claro, aquí tienes la estructura del README para tu proyecto de Sistema de Monitorización de Ambiente en GitHub:
-
 ---
 
 # Sistema de Monitorización de Ambiente
