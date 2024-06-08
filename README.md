@@ -53,4 +53,3 @@ Hemos implementado un sistema integral de monitorización ambiental que mide cua
 
 ---
 
-Puedes usar esta estructura para crear un README en tu repositorio de GitHub, proporcionando una visión clara y detallada del sistema y sus componentes.
